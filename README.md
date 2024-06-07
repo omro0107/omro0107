@@ -21,9 +21,9 @@ Welcome to my GitHub profile! I'm a frontend development student dedicated to cr
 
 Here are a few projects I've worked on recently:
 
-- **[Project Name](https://github.com/omro0107/Rainy-Days)**: A e-commerce platform designed for a company selling waterproof clothing for rainy days. First I designed the website using Figma, and then I built it using HTML for structure and CSS for styling.
-- **[Project Name](https://github.com/omro0107/Nordic-Science-Nexus)**: This website is for a museum. First, I designed the website using FIGMA, and then I built it using HTML for structure and CSS for styling.
-- **[Project Name](https://github.com/NoroffFEU/FED1-PE1-omro0107)**: A blog website. Designed in Figma, built using HTML for structure, CSS for styling and JS for interactivity. Blog information and content fetched from API. I also used Postman in this project, to create API content.
+- **[Rainy Days](https://github.com/omro0107/Rainy-Days)**: A e-commerce platform designed for a company selling waterproof clothing for rainy days. First I designed the website using Figma, and then I built it using HTML for structure and CSS for styling.
+- **[Nordic Science Nexus](https://github.com/omro0107/Nordic-Science-Nexus)**: This website is for a museum. First, I designed the website using FIGMA, and then I built it using HTML for structure and CSS for styling.
+- **[HotWiew Labs](https://github.com/NoroffFEU/FED1-PE1-omro0107)**: A blog website. Designed in Figma, built using HTML for structure, CSS for styling and JS for interactivity. Blog information and content fetched from API. I also used Postman in this project, to create API content.
 
 Check out more of my projects [here](https://github.com/omro0107?tab=repositories).
 
