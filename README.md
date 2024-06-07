@@ -1,6 +1,6 @@
 # Hi there, I'm Oda! 👋
 
-Welcome to my GitHub profile! I'm a passionate frontend development student dedicated to crafting beautiful and functional web applications. My journey in web development is fueled by a love for creativity, problem-solving, and continuous learning.
+Welcome to my GitHub profile! I'm a frontend development student dedicated to crafting beautiful and functional web applications. My journey in web development is fueled by a love for creativity, problem-solving, and continuous learning.
 
 ## 🚀 About Me
 
