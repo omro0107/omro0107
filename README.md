@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm a frontend development student dedicated to cr
 ## 🔧 Technologies & Tools
 
 - **Languages:** HTML, CSS, JavaScript
-- **Frameworks/Libraries:** (... Coming soon)
+- **Frameworks/Libraries:** Tailwind, SASS, React
 - **Tools:** Git, GitHub, Figma, Visual Studio Code, Postman
 - **Others:** Responsive Design, Cross-Browser Compatibility, API Integration
 
